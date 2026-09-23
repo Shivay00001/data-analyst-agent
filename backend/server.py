@@ -38,6 +38,7 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
+os.makedirs("workspace", exist_ok=True)
 app.mount("/workspace", StaticFiles(directory="workspace"), name="workspace")
 
 def get_api_key(model_id: str, api_keys: dict):

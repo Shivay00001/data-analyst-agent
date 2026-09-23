@@ -9,3 +9,4 @@ matplotlib
 numpy
 pandas
 seaborn
+python-multipart
