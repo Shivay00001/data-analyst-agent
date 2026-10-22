@@ -28,3 +28,7 @@ npm run dev
 
 ## Coordination & Automation
 This agent is part of a larger ecosystem. It can be executed natively via its UI, or coordinated as a node in a multi-agent pipeline using the Central Connector System.
+
+## Run it as a managed service
+
+Prefer not to self-host? [VisionQuantech](https://visionquantech.com) deploys AI data analysts like this one as a managed service — see [AI Data Analysis Services](https://visionquantech.com/service-data-analysis) and the [AI Data Analyst employee](https://visionquantech.com/employee-data-analyst) page.
